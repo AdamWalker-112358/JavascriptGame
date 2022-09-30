@@ -1,0 +1,15 @@
+$colors-list: #e80c7a #ff0dff #ff0000 #e82c0c #ff530d #dfff0d #8eff0c #00bc0c
+  #0197ff #730ce8;
+$body-bg-color: lighten(royalblue, 18%);
+$wrapper-border-color: royalblue;
+$wrapper-bg-color: papayawhip;
+$header-color: indigo;
+$header-shadow-color: deeppink;
+$header-shadow-color-hover: skyblue;
+$pulse-base-color: #e80c7a;
+$pulse-wave-color: #ff98ff;
+$swirl-line-color: darken(nth($colors-list, 2), 20%);
+$swirl-base-color: #6d3cdf;
+$two-cubes-color: #6d3cdf;
+$wrapper-shadow: 0 10px 80px #888888;
+$spinner-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
